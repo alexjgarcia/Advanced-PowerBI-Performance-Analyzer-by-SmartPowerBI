@@ -1,0 +1,5 @@
+
+
+10/10/2021
+Remember to change the url/location of the Excel file "Advanced Performance Analyser by SmartPowerBI Support File.xlsx"
+as it is not parametrised and will contain all the configurable messages and links to other educational resources.
